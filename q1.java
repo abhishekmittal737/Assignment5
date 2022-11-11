@@ -27,7 +27,7 @@ public class BlueWhale implements Mammals, MarineAnimals {
 
     public static void main(String args[])
     {
-        BlueWhale bw = new q1();
+        BlueWhale bw = new BlueWhale();
        bw.print();
     }
 }
